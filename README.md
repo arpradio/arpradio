@@ -39,4 +39,4 @@ and run after the following preceding a successful build
 npm run start
 
 ```
-
+The Web Application will now be running!  Visit http://localhost:3000 to view and use minter!
